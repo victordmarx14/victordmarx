@@ -1,6 +1,6 @@
 <h2 align="left">Victor</h2>
 <p align="center">
-  📹 Database analyst 🇧🇷<br>
+  🗄️ Database analyst 🇧🇷<br>
   🧑‍💻 <b>Bash</b> scripting and <b>Python</b> enthusiast developer 🐍<br> 
 </p>
 
