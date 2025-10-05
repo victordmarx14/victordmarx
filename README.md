@@ -22,6 +22,7 @@
   </a>
 </div>
 <div align="center" style="margin-top:10px;">
+  <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=1793D1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linux logo"  />
   <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=005C84&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mysql logo"  />
   <img src="https://img.shields.io/static/v1?message=Bash&logo=gnu-bash&label=&color=4EAA25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bash logo"  />
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo"  />
